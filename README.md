@@ -26,3 +26,15 @@
 *	Certified Blockchain Expert-V2, accredited by the Blockchain Council, during October, 2018.
 *	Completed Blockchain and Bitcoin Fundamentals, accredited by Udemy during October, 2018.
 *	Completed Blockchain Advanced Level: Uses Beyond Bitcoin 2018, accredited by Udemy during October, 2018.
+
+
+## Training Programs, Workshops, Conferences Organized 
+
+*	Organizing Chair 6th International Conference on Mathematica and Computing (ICMC 2020) held on 18-20th March, 2020 at Sikkim University. 
+*	Organized Three-day Workshop on Block Chain Technology (BCT-2019) with EICT Academy, IIT Guwahati held on 28-30th March, 2019 at Sikkim University. 
+*	Organized Innovation and Entrepreneurship Awareness Workshop and Contest-2018 held on 6th March at Sikkim University.
+*	Organized 1day Seminar on Green Computing on 28th August, 2015 at Sikkim University.
+*	Coordinated 2 days Hands-on Workshop using LaTeX (TeX-2014) on 15th-16th November, 2014 at Sikkim University.
+*	Organized 5 days workshop on ISI-SU Autumn School on Machine Intelligence and Applications (ASMIA) jointly with Indian Statistical Institute (ISI), Kolkata on 22th-26th September, 2014 at Sikkim University.
+*	Organized 5 days workshop on Theory and Tools for Language and Document Analysis and Research (TTLDAR) jointly with Indian Statistical Institute (ISI), Kolkata on 24th-28th March, 2014 at Sikkim University.
+
