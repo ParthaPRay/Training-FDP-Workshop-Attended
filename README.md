@@ -17,3 +17,12 @@
 *	Attended short term course on Advance DSP design techniques at Indian Institute of Technology Kharagpur, Kharagpur on 28th Jun - 2nd July, 2010.
 *	Attended training programming on Infosys campus connect jointly organized by Infosys Inc. at B. P. Poddar Institute of Management and Technology in the year 2008-2009.
 *	Attended industrial training programming on Switching, GSM mobile and OFC at BSNL, Cooch Behar on 2nd - 24th July, 2007.
+
+
+## Courses/Certifications Completed 
+
+*	Completed Mastering Digital Twins, accredited by Coursera June, 2019.
+*	Completed Annual Refresher Programme in Teaching (ARPIT) by UGC SWAYAM course on “Fundamentals of Outcome-based Curriculum in Engineering Education” on 28nd January– 23rd February, 2019.
+*	Certified Blockchain Expert-V2, accredited by the Blockchain Council, during October, 2018.
+*	Completed Blockchain and Bitcoin Fundamentals, accredited by Udemy during October, 2018.
+*	Completed Blockchain Advanced Level: Uses Beyond Bitcoin 2018, accredited by Udemy during October, 2018.
