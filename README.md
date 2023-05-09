@@ -1,6 +1,7 @@
 # Training-FDP-Workshop-Attended
 
 
+* Attended 7-day Cloud Computing Course, by Turnip Innovations Private Limited, from 4 May – 10 May, 2023.
 *	Attended Joint Online One Week Certificate Program Social Robotics & AI, by PDPM IIITDM, Jabalpur, MNIT Jaipur, NIT Patna,  from 28 June  – 4 July, 2021.
 *	Attended Faculty Induction Programme (FIP) 4 Weeks Orientation Programme by Pandit Madan Mohan Malaviya National Mission on Teachers and Teaching (PMMMNMTT), Teaching Learning Centre, Ramanujan College, University of Delhi from 10 November – 9 December, 2020.
 *	Attended Faculty Development Programme Research Methodology by Pandit Madan Mohan Malaviya National Mission on Teachers and Teaching (PMMMNMTT), Teaching Learning Centre, Ramanujan College, University of Delhi from 1-15th October, 2020.
