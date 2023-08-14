@@ -31,6 +31,7 @@
 
 ## Training Programs, Workshops, Conferences Organized 
 
+* Organizing member of International Workshops on Research Frontiers in Data Science and Modelling held on October 13-14, 2023 at Sikkim University.
 *	Organizing Chair 6th International Conference on Mathematica and Computing (ICMC 2020) held on 18-20th March, 2020 at Sikkim University. 
 *	Organized Three-day Workshop on Block Chain Technology (BCT-2019) with EICT Academy, IIT Guwahati held on 28-30th March, 2019 at Sikkim University. 
 *	Organized Innovation and Entrepreneurship Awareness Workshop and Contest-2018 held on 6th March at Sikkim University.
